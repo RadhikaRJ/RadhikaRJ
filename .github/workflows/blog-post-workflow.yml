@@ -7,7 +7,7 @@ on:
  workflow_dispatch: 
 jobs:
  update-readme-with-blog:
-   name: /README.template.md
+   name: Update this repo's README with latest blog posts
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v2
