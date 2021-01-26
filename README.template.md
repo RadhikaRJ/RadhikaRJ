@@ -13,7 +13,7 @@ To know more about me, <a href="https://radhika-portfolio.netlify.app/">check ou
 <hr>
 <br>
 <hr>
-📌 Pinned Repositories
+📌 Pinned Repositories <br>
 
 <a href="https://github.com/RadhikaRJ/Timer_application">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RadhikaRJ&repo=Timer_application&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -25,13 +25,15 @@ To know more about me, <a href="https://radhika-portfolio.netlify.app/">check ou
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RadhikaRJ&repo=devchallengesio_404_not_found&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<br>
+
 <a href="https://github.com/RadhikaRJ/Neogcamp_emojiReactJS_App">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RadhikaRJ&repo=Neogcamp_emojiReactJS_App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <hr>
 📈 Github Stats
-
+<br>
 <a href="https://github.com/RadhikaRJ">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadhikaRJ&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -39,3 +41,5 @@ To know more about me, <a href="https://radhika-portfolio.netlify.app/">check ou
 <a href="https://github.com/RadhikaRJ">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=RadhikaRJ&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Radhika's GitHub Stats" />
 </a>
+
+<hr>
