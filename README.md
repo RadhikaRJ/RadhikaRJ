@@ -1,6 +1,6 @@
 [![Radhika's GitHub Banner](./assets/Banner.png)](https://github.com/RadhikaRJ)
 <br>
-# Hello Friends!
+### Here's a little bit about me👇
 <br>
 <p align="left"> <a href="https://twitter.com/Radhika8102" target="blank"><img src="https://img.shields.io/twitter/follow/radhika8102?logo=twitter&style=for-the-badge" alt="Radhika8102" /></a> </p>
 
