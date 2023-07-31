@@ -5,7 +5,7 @@
 
 <br>
 
-<p>I'm Radhika, a passionate full-stack developer who loves to code innovative and challenging web applications and software products. Additionally, I'm well-versed in the domain of AI, ML, and Data Visualization and have worked with Big Data Technologies such as Apache Hadoop, Apache Spark & Apache Kafka. I am open to collaborating on projects on GitHub and am a novice open-source contributor. Currently, I am actively seeking internship opportunities and full-time opportunities for Software Engineering/Software Developer roles. To know more about me, check out my portfolio. 
+<p>I'm Radhika, a passionate full-stack developer who loves to code for creating innovative and challenging solutions to real-world problems, and develop web applications. Additionally, I'm well-versed in the domain of AI, ML, and Data Visualization and have worked with Big Data Technologies such as Apache Hadoop, Apache Spark & Apache Kafka. I am open to collaborating on projects on GitHub and am a novice open-source contributor. Currently, I am actively seeking internship opportunities and full-time opportunities for Software Engineering/Software Developer roles. 
 <br><br>
 To know more about me, <a href="https://radhika-portfolio.netlify.app/">check out my portfolio.</a> 
 <br>
