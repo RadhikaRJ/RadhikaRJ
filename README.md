@@ -2,7 +2,8 @@
 <br>
 # Hello Friends!
 <br>
-[![Twitter URL](https://img.shields.io/twitter/url?label=Twiiter&style=social&url=https%3A%2F%2Ftwitter.com%2FRadhika8102)](https://twitter.com/Radhika8102)
+<p align="left"> <a href="https://twitter.com/Radhika8102" target="blank"><img src="https://img.shields.io/twitter/follow/radhika8102?logo=twitter&style=for-the-badge" alt="Radhika8102" /></a> </p>
+
 
 <br>
 
