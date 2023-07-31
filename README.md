@@ -1,4 +1,5 @@
 [![Radhika's GitHub Banner](./assets/GitHub_banner_new.png)](https://github.com/RadhikaRJ)
+<br>
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twiiter&style=social&url=https%3A%2F%2Ftwitter.com%2FRadhika8102)](https://twitter.com/Radhika8102)
 
 <br>
