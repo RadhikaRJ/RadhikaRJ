@@ -63,6 +63,9 @@ To know more about me, <a href="https://radhikarj.github.io/">check out my portf
 <br>
 <hr>
 📌 Pinned Repositories <br><br>
+<a href="https://github.com/RadhikaRJ/ecommerce">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RadhikaRJ&repo=ecommerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <a href="https://github.com/RadhikaRJ/Image_Gallery">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=RadhikaRJ&repo=Image_Gallery&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
